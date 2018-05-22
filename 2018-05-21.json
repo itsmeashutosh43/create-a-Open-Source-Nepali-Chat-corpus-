@@ -1,0 +1,698 @@
+[
+    {
+        "user": "UAUDW4QLE",
+        "text": "<@UAUDW4QLE> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1526927725.000478"
+    },
+    {
+        "user": "UATE87C0K",
+        "text": "<@UATE87C0K> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1526928088.000478"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "ल स्वागत छ है सबैलाई ।",
+        "ts": "1526928110.000010"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "धन्यवाद  मित्र",
+        "client_msg_id": "04729e30-ffdb-4dde-9d3c-c110863402ff",
+        "ts": "1526928142.000321"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "नेपाली मा मात्र टाईप गरुम ।",
+        "ts": "1526928150.000301"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "भैहाल्छ नि साथि। तर व्याकरण अनि मात्रा बिग्रिएको खण्डमा तिमिले मिलाइदिनुपर्छ है त।",
+        "client_msg_id": "0f62bb7b-86a8-4491-b1b7-baad9f2c7806",
+        "ts": "1526928361.000188"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "साथी बल गुरु को होमवोर्क बुझायौ ?",
+        "ts": "1526928396.000347"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "कस्तो गार्हो नेपालीमा टाईप गर्न त।",
+        "client_msg_id": "abe3a314-2289-4cf6-8c22-c32e94fef47c",
+        "ts": "1526928424.000376"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "बानी बनाउ साथी अब नेपाली मा टाईप गर्न",
+        "ts": "1526928485.000485"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "अगि एक घन्टा अघि बुझाको मैले त। तिमिले बुझायौ त?",
+        "client_msg_id": "a2d64b1b-53dd-4b22-b905-2cb23900eaa0",
+        "ts": "1526928547.000213"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "बुझाए । तर बुझाउदा टाईम १२ भन्दा माथी पुगिसकेको थियो",
+        "ts": "1526928692.000717"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "एक-दुई वटा होमवोर्क ढिला बुझाउदा केहि गर्नुहुन्न होला गुरूले पनि।",
+        "client_msg_id": "54e0fd4c-9c8d-4902-affe-3c225008f3b3",
+        "ts": "1526928869.000353"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "बिद्धार्थिको पनि कुरा बुझ्नुहुन्छ नि हाम्रो बल गुरूले",
+        "client_msg_id": "d100dc7d-85a3-4615-b071-3c30638c3f48",
+        "ts": "1526928937.000657"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "ल म सुत्न गए है त साथी, रातिको एक बज्न थालिसक्यो। भोलि कक्षाकोठामा भेटेर कुरा गरम न, हुन्न?",
+        "client_msg_id": "a2e0de50-d671-4a90-8c39-824af68a78e4",
+        "ts": "1526929058.000598"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "शुभरात्रि",
+        "client_msg_id": "8d1b748b-bb3b-4d81-9ed6-4812159c8606",
+        "ts": "1526929083.000214"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हो साथी । मिलन्सार हुनु हुन्छ हाम्रो गुरु । ल शुभरात्री साथि",
+        "ts": "1526929801.000368"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "ल साथी । आज साथी को जन्मदिन को पार्टी । त्यही भएर राती सम्म बसेको ।",
+        "ts": "1526929882.000646"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "आज कस्को जन्मदिन हो र साथी?",
+        "client_msg_id": "f733d2e8-ecf2-493a-92fa-44b3f11dd576",
+        "ts": "1526929950.000338"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "आज दिनन्क साथी को जन्मदिन ।",
+        "ts": "1526954321.000040"
+    },
+    {
+        "user": "UATNNJ9QA",
+        "text": "<@UATNNJ9QA> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1526954729.000225"
+    },
+    {
+        "user": "UATKR7VJ7",
+        "text": "<@UATKR7VJ7> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1526954752.000198"
+    },
+    {
+        "user": "UATG0AH0U",
+        "text": "<@UATG0AH0U> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1526954926.000058"
+    },
+    {
+        "type": "message",
+        "user": "UATNNJ9QA",
+        "text": "शुभ प्रभात मित्रहरु",
+        "ts": "1526954939.000100"
+    },
+    {
+        "type": "message",
+        "user": "UATNNJ9QA",
+        "text": "आज को दिन सबैको शुभ जाओस",
+        "ts": "1526955014.000135"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "नयाँ आएको साथी हरु आफ्नो आफ्नो परिचय दिने हैन त ?",
+        "ts": "1526955261.000244"
+    },
+    {
+        "user": "UATG2FQGL",
+        "text": "<@UATG2FQGL> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1526955413.000046"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "आशुतोष साथी",
+        "client_msg_id": "7ce43850-4d6d-4aec-b1da-b2c04f229b1d",
+        "ts": "1526955603.000006"
+    },
+    {
+        "user": "UATKW33K5",
+        "text": "<@UATKW33K5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1526955853.000165"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "म दुखि छु",
+        "client_msg_id": "10293d4d-264d-4db9-854c-1afd6759cf3e",
+        "ts": "1526955871.000065"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "नुब को हुनुहुन्छ?",
+        "client_msg_id": "b732336a-b6dd-4656-8f82-e417831dbb7f",
+        "ts": "1526955898.000078"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "किनकि मलाई चिट्ठामा दुई करोड पर्यो।",
+        "client_msg_id": "0369f969-a4ea-457d-8ef2-eae0353f2992",
+        "ts": "1526955924.000154"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "परिचय दिन मिल्छ?",
+        "client_msg_id": "02819d7e-9dbc-4394-b8e4-31682d759c16",
+        "ts": "1526955925.000114"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "अस्ति आईतबार तेत्रो परिचय दिएको हैन भन्या :blush:",
+        "client_msg_id": "720dbe70-f647-48b1-8131-af2e19090845",
+        "ts": "1526955983.000017"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "त्यो पनि दुख हुने कुरा हो र?",
+        "client_msg_id": "f7c1deac-c117-4ec4-8346-b9efcab0d386",
+        "ts": "1526956024.000054"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "यो सामसुङ किबोर्डमा चन्द्रबिन्दु कसरी दिने?",
+        "client_msg_id": "043477d0-d717-4f07-8ec5-f70319c2d3a9",
+        "ts": "1526956090.000151"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "तर चिट्ठा सपनामा पो परेको रहेछ के :expressionless:",
+        "client_msg_id": "81f457c9-fe18-4399-aa86-1a4474b932cb",
+        "ts": "1526956092.000134"
+    },
+    {
+        "type": "message",
+        "user": "UATKW33K5",
+        "text": "के छ साथीहरु?",
+        "ts": "1526956099.000113"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "जिबोर्ड चलाऊ मित्र",
+        "client_msg_id": "6776492b-7358-4186-9522-0db18f5f1a48",
+        "ts": "1526956118.000027"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "ठिकै छ साथी",
+        "client_msg_id": "c70d1a05-b6ae-4d7f-9b5b-f7b2ba40dd76",
+        "ts": "1526956164.000196"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "ओ हो  रुममेट। स्वागत छ।",
+        "client_msg_id": "a9d6b34a-603e-463b-921e-455b5430b91f",
+        "ts": "1526956171.000228"
+    },
+    {
+        "user": "UATSWHWUV",
+        "text": "<@UATSWHWUV> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1526956195.000096"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "जिबोर्ड हिजो मात्र हालेको मैले।",
+        "client_msg_id": "2bbdfc21-1f64-42ed-a7ae-cbe64c763e3d",
+        "ts": "1526956215.000130"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "सुड्डो पनि आयो",
+        "client_msg_id": "3b5d1948-5877-4dc1-977f-618b8d84f7c4",
+        "ts": "1526956232.000221"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "झ्याप्प बदल्न गर्हो हुदोरैछ",
+        "client_msg_id": "e433b681-0ef8-4154-9b5d-1883103eda24",
+        "ts": "1526956256.000147"
+    },
+    {
+        "type": "message",
+        "user": "UATKW33K5",
+        "text": "मलाई भोक लागिरहेको छ। जाम रूम्मेट खान।",
+        "ts": "1526956256.000153"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "नुब :joy:",
+        "client_msg_id": "ffbd1b67-3554-4ac9-aae2-49d2f5fc506e",
+        "ts": "1526956291.000170"
+    },
+    {
+        "type": "message",
+        "user": "UATKW33K5",
+        "text": "के छ प्रशान्त ?",
+        "ts": "1526956308.000035"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "महेश दाई पो?",
+        "client_msg_id": "3c3aa5b8-a6bb-4280-a521-7a3c4a61f15e",
+        "ts": "1526956329.000055"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "बिस्तारै बानी पर्दै जान्छ",
+        "client_msg_id": "14f1a882-1683-4c18-8374-6f5014748ec1",
+        "ts": "1526956339.000185"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "ल स्वागत छ है सबैलाई",
+        "ts": "1526956341.000278"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "यसरी नै बोल्दै गरुम",
+        "ts": "1526956376.000089"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "तिमिलाई चै स्वागत छैन:joy:",
+        "client_msg_id": "0bfc9722-a67f-447d-bf08-cfe69b323e76",
+        "ts": "1526956377.000215"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "धन्यवाद फेरिपनि",
+        "client_msg_id": "8b3e513b-6370-4ea7-b19b-b0b32878fe14",
+        "ts": "1526956391.000073"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "छ महिना मा कान्तिपुर ले जागिर दिने जस्तो टाईपिङ होस है त",
+        "ts": "1526956419.000124"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "नाई। म नबोल्ने रे यसरी",
+        "client_msg_id": "7ecf77fe-a5d6-46a7-86c8-e240b611d940",
+        "ts": "1526956421.000242"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "अब के गर्छौ? आएर कुट्छौ मलाई?",
+        "client_msg_id": "b7fcae45-8165-4d4a-83e0-0df5c0ba9361",
+        "ts": "1526956451.000016"
+    },
+    {
+        "type": "message",
+        "user": "UATSWHWUV",
+        "text": "ठिक छ सुयोग ।",
+        "client_msg_id": "f43135f1-c6c0-4349-831a-78aff4d86b29",
+        "ts": "1526956466.000114"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "आसुोतस आजैदेखि गिटहबमा डेटा राख है",
+        "client_msg_id": "d83cb01d-53db-4d1d-9a90-95435e9ecd03",
+        "ts": "1526956495.000102"
+    },
+    {
+        "type": "message",
+        "user": "UATSWHWUV",
+        "text": "यसरी नै टाइप गर्ने हो त?",
+        "client_msg_id": "0bcc49dd-e44a-4268-b838-6fa3b97c8e45",
+        "ts": "1526956497.000114"
+    },
+    {
+        "type": "message",
+        "user": "UATKW33K5",
+        "text": "जाम नास्ता खान प्रशान्त।",
+        "ts": "1526956508.000202"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "हो सुड्डो हो :grin:",
+        "client_msg_id": "e0f9ec7d-7798-46c5-a5e6-946018af43d7",
+        "ts": "1526956528.000030"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हुन्छ दाई ।",
+        "ts": "1526956528.000067"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "आशुतोष, मेरो रुममेटको एउटा जिज्ञासा आयो। छाडा बोल्न मिल्छ कि मिल्दैन रे?",
+        "client_msg_id": "82d9f673-c766-4fd2-9ec9-53f201844fa5",
+        "ts": "1526956558.000027"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": ":joy: :joy: :joy:",
+        "client_msg_id": "6b1c6a85-643d-4e43-86b3-797dcb8547c8",
+        "ts": "1526956573.000165"
+    },
+    {
+        "type": "message",
+        "user": "UATSWHWUV",
+        "text": "म अहिले छात्रवासमा छुइन ।",
+        "client_msg_id": "33e2b896-4e57-4443-8189-fcb0c1a66c9a",
+        "ts": "1526956631.000123"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "सन्त तरिकामा छाडा बोल्न मिल्छ नि तर नबोलेको जाति",
+        "client_msg_id": "b4d0f330-736d-43cd-b51e-9e7f050b53f0",
+        "ts": "1526956644.000185"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "ल त म ज्यालामजदुरी गर्न हिडेको है त, मोज गर मित्र हरु",
+        "client_msg_id": "3db7896a-b574-48b9-8741-f66fcaec2062",
+        "ts": "1526956727.000174"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "च्याटबोटले पनि मज्जाले गालि गर्न सिक्यो भने राम्रो हुन्थ्यो होला।",
+        "client_msg_id": "35f09a26-0782-450a-828a-8c64aa362cb9",
+        "ts": "1526956734.000100"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "दाई ले भनेको कुरा एक्दुम सही",
+        "ts": "1526956742.000263"
+    },
+    {
+        "type": "message",
+        "user": "UATKW33K5",
+        "text": "ए ! मलाई प्रशान्तलाई गाली गर्न मन लागिरहेको छ।",
+        "ts": "1526956755.000233"
+    },
+    {
+        "type": "message",
+        "user": "UATKW33K5",
+        "text": "कैले छात्राबास मा बस्दैन ।",
+        "ts": "1526956762.000125"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "ल म पनि नुहाउन गए अब।",
+        "client_msg_id": "48bc0b87-f018-4e29-9a7f-1820d096ff3b",
+        "ts": "1526956792.000114"
+    },
+    {
+        "type": "message",
+        "user": "UATSWHWUV",
+        "text": "किन तेस्तो सुयोग भइ?",
+        "client_msg_id": "24949ec7-7a41-4aea-be40-1daa71bc4fd0",
+        "ts": "1526956805.000040"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "फेरि भेटौला",
+        "client_msg_id": "444d05f5-489f-496a-97b6-6324d453259b",
+        "ts": "1526956813.000132"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "भइ भयो दाई",
+        "client_msg_id": "d7790c79-fa85-4d2b-9f22-98f597ffa66d",
+        "ts": "1526956829.000158"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "हैट\nनयाँ कुरा गर्दै छौँ सानो बच्चा लाई नि छाडा बनाईदिने\nसभ्य बनेकै राम्रो",
+        "client_msg_id": "f24e0d3f-271f-4e9b-b867-5b4a234e49d6",
+        "ts": "1526956841.000168"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "भाइ लेख्नु चाडो",
+        "client_msg_id": "525c8d48-6bfb-438b-b55d-9a82c3e83aca",
+        "ts": "1526956849.000123"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "क्लास नै नभए पछी   किन  छात्राबास मा  बसोस",
+        "ts": "1526956884.000241"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "वा सहि कुरो है महेश दाइ।",
+        "client_msg_id": "e750db4e-1497-4092-8e46-1a44cc62724e",
+        "ts": "1526956899.000250"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "सभ्य वाला कुरा मन पर्यो",
+        "client_msg_id": "d26562a2-4919-4d71-bda0-d5d1ee224898",
+        "ts": "1526956933.000082"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "यो तोरी लौरे ले कस्लाई महेश भनिरहेको छ ?",
+        "ts": "1526956957.000003"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "तर पनि गालि गर्यो भने चाहि खतरा हुन्थ्यो :joy: :joy:",
+        "client_msg_id": "53f4faee-9cda-4032-910b-3765effb2b5c",
+        "ts": "1526956973.000210"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "ओ नहिहिहिहिहि",
+        "client_msg_id": "7a826ea4-67d2-491a-995a-b0ba2b257f20",
+        "ts": "1526956993.000182"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "सन्जोग दाई भन्न खोज्या होला",
+        "ts": "1526957028.000282"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "फोटो हेर्दा महेश दाइको जस्तै लागेर भनाको",
+        "client_msg_id": "d2f2d83d-c860-4796-8dd3-8909712eeed5",
+        "ts": "1526957035.000092"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "नुब दाई",
+        "client_msg_id": "47ac3933-f918-4311-b96e-b7390cd90990",
+        "ts": "1526957051.000067"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "गाली सुन्न मन लागेको भए म फोन गरेर गाली गरौलस नि बिसाल तिमिलाई :joy:",
+        "client_msg_id": "6d81d940-c7bc-4364-9857-f2ed96153552",
+        "ts": "1526957076.000024"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "मलाई मन परेन है यो कुरा। भाईलाइ अन्धकारमा राख्ने हजुरले?",
+        "client_msg_id": "33975e20-4352-4776-ace2-41e6c20b678e",
+        "ts": "1526957092.000016"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "भयो दाई। एकदम कमजोर मुटूको मान्छे हो म। रुन मन लागिहाल्छ। :joy:",
+        "client_msg_id": "69f4b0da-6943-4904-b989-7efd6997d5a2",
+        "ts": "1526957163.000124"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "दुई तिन महिना सम्म कुराकानी नगरि कन त परिणाम राम्रो आउहैन है आसुतोस",
+        "client_msg_id": "ff8e5e0b-3c0f-4164-a6fd-e1c93a81747f",
+        "ts": "1526957200.000368"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "ल अब चाहि म साच्चि नुहाउन गए।",
+        "client_msg_id": "9f9f1b03-fa14-4c6e-b117-9dcd6ebb123a",
+        "ts": "1526957215.000167"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": ":joy::joy: नरोउ भयो केहि भन्दिन म",
+        "client_msg_id": "e9e7af5b-a35a-436a-a534-0f349726d83a",
+        "ts": "1526957239.000177"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "साझा बसमा जो पनि चड्दछ किलिन्डरले ३०रुपेको टिकट काट्दछ :stuck_out_tongue:",
+        "client_msg_id": "19ff8faa-2b76-4a31-a691-ab9f2785aeac",
+        "ts": "1526957387.000006"
+    },
+    {
+        "user": "UAUQH4PSB",
+        "text": "<@UAUQH4PSB> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1526958195.000275"
+    },
+    {
+        "user": "UAT78G0KB",
+        "text": "<@UAT78G0KB> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1526959317.000123"
+    },
+    {
+        "user": "UATTARQ77",
+        "text": "<@UATTARQ77> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1526959609.000242"
+    },
+    {
+        "user": "UAT2VLA0G",
+        "text": "<@UAT2VLA0G> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1526960040.000132"
+    },
+    {
+        "user": "UAUQT2R7Z",
+        "text": "<@UAUQT2R7Z> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1526960666.000143"
+    },
+    {
+        "type": "message",
+        "user": "UAT78G0KB",
+        "text": "नामीत मित्र त टिकट नकाटि चड्छन",
+        "client_msg_id": "0ce28d82-00a0-40f3-a61e-f45ad0ec200c",
+        "ts": "1526966903.000170"
+    },
+    {
+        "type": "message",
+        "user": "UATG0AH0U",
+        "text": "त्यस्तो हैन होला आशिष मित्र ।",
+        "client_msg_id": "86867608-18ab-4591-967f-9c47050909d9",
+        "ts": "1526966992.000180"
+    },
+    {
+        "type": "message",
+        "user": "UAT78G0KB",
+        "text": "तिमी मित्र त्यसो नभन न विशाल दाजुलाइ पनि थाहा छ, तिमिले टिकट नकाटी साझा बसमा यात्रा गरेको।",
+        "client_msg_id": "41720a8c-2d2f-4027-a966-f028d300babc",
+        "ts": "1526967212.000258"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "नेपाली भाषा कतिको सहज लाग्छ तपाईंहरुलाई?",
+        "client_msg_id": "d73e30f6-def4-49d7-a9fe-59fdb9492211",
+        "ts": "1526970741.000230"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "सबै जना ब्यस्त हुनुहुन्छ जस्तो लाग्यो।",
+        "client_msg_id": "050e023d-972b-4d6d-b13f-c613759bb983",
+        "ts": "1526970811.000289"
+    }
+]
