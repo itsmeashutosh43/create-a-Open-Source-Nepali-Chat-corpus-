@@ -1,0 +1,65 @@
+[
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "मैले ईमेल हेरेको थिए दाजु, तर छात्रवास बनभोजको कारणले जवाफ दिन पाएको थिएन। अहिले लेख्दैछु दाजु म त्यहि ईमेलको जवाफ।",
+        "client_msg_id": "515b0410-518e-4d95-b8c7-4f2334f55138",
+        "ts": "1527406232.000030"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "प्रतिक्रिया को लागि धन्यवाद।\nईमेल सुचिमा भएका मध्य कोही तपाईँको सामाजिक सञ्जालमा हुनुहुन्छ भने कृपया ईमेल चेक गर्न खबर गरिदिनु होला है।",
+        "attachments": [
+            {
+                "fallback": "[May 27th, 2018 1:15 PM] beeshal55: मैले ईमेल हेरेको थिए दाजु, तर छात्रवास बनभोजको कारणले जवाफ दिन पाएको थिएन। अहिले लेख्दैछु दाजु म त्यहि ईमेलको जवाफ।",
+                "ts": "1527406232.000030",
+                "author_id": "UATE87C0K",
+                "author_subname": "Beeshal Adhikari",
+                "channel_id": "CATM38QRK",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "मैले ईमेल हेरेको थिए दाजु, तर छात्रवास बनभोजको कारणले जवाफ दिन पाएको थिएन। अहिले लेख्दैछु दाजु म त्यहि ईमेलको जवाफ।",
+                "author_name": "Beeshal Adhikari",
+                "author_link": "https:\/\/nepalichatdata.slack.com\/team\/UATE87C0K",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-05-27\/370395031153_a607020ca49f9cb5a95e_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/nepalichatdata.slack.com\/archives\/CATM38QRK\/p1527406232000030",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "ts": "1527429279.000015"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "हस् दाजु। म फेसबुकमा खबर गर्छु अरु साथिहरुलाई पनि।",
+        "client_msg_id": "85f64d9b-79b4-4720-8454-508b70af752d",
+        "ts": "1527433351.000014"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "ईमेलमा केही नामहरू जस्को मसँग ईमेल ठेगाना थिएन उनीहरूलाई सम्पर्क गर्न सक्नुहुन्छ भने पनि हेरिदिनु है।",
+        "client_msg_id": "768d01d9-c168-4bd9-b672-c68d91f9e92a",
+        "ts": "1527433654.000023"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "दिन कसरी बित्यो तपाईँको?\nबिदा कसरी मनाउँदै हुनुहुन्छ नि?",
+        "client_msg_id": "cc7f0ba8-ffd6-4887-bde4-8036f4a0ed30",
+        "ts": "1527433712.000018"
+    },
+    {
+        "type": "message",
+        "user": "UATE87C0K",
+        "text": "दिनभर सुत्यो, यताउता दुल्यो। त्यस्तै त हो दाजु। हजुरको के छ नि?",
+        "client_msg_id": "7b4195cb-4d14-44de-97df-2387706c298d",
+        "ts": "1527460513.000034"
+    }
+]

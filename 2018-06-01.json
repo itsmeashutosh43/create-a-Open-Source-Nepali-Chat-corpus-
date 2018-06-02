@@ -1,0 +1,610 @@
+[
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "नमस्ते दाजु । यो कलङ्कि को जामले हैरान बनायो",
+        "client_msg_id": "6aad2378-d1d9-4212-a7f4-2e27ebcf5198",
+        "ts": "1527849440.000357"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "अहिले त घर पुगि सक्यौं होला नि :joy: कि आझै जाम मास फसेको छोै",
+        "client_msg_id": "32ecdc28-b14f-4dc4-8aea-dcb9149db841",
+        "ts": "1527867263.000450"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "<@UAWS6TFB3> नमस्ते",
+        "client_msg_id": "975dd9a4-a1e4-4e63-a4c2-2aa56d73d56d",
+        "ts": "1527867307.000144"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "<@UAYC7R8D6> स्वागत छ नयाँ सदस्य लाई",
+        "client_msg_id": "3bd04aff-9bd1-4cc5-8b9f-6fb5ec2dd6f4",
+        "ts": "1527867390.000530"
+    },
+    {
+        "type": "message",
+        "user": "UAYC7R8D6",
+        "text": "<@UATG2FQGL> धन्यवाद !:blush:",
+        "client_msg_id": "c1f9e68c-b06b-4228-a309-d708c20eac43",
+        "ts": "1527867491.000085"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "मोबाइल मा नेपली टाइप गर्न कुन एप प्रयोग गर्छोै?",
+        "client_msg_id": "d594966c-9e9f-4c62-a78c-8ee63685f1b9",
+        "ts": "1527867544.000632"
+    },
+    {
+        "type": "message",
+        "user": "UAYC7R8D6",
+        "text": "हाम्रो किबोर्ड",
+        "client_msg_id": "aaad7d15-c0c8-45c5-be47-c83b64c160a6",
+        "ts": "1527867579.000514"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "ए",
+        "client_msg_id": "fbc4cb46-2c82-420b-9a49-d3a9dcc3859a",
+        "ts": "1527867613.000344"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "गुगलको किबोर्ड भन्ने एप चलाउ निकै सजिलो लाग्छ मलाई चाहिँ",
+        "client_msg_id": "d6802df5-fbc2-4f28-9319-8afbab54b152",
+        "ts": "1527867651.000700"
+    },
+    {
+        "type": "message",
+        "user": "UAYC7R8D6",
+        "text": "हस्",
+        "client_msg_id": "ada37d35-fca3-4454-956a-6785e05b12e4",
+        "ts": "1527867670.000587"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "माफी चहान्छु जिबोर्ड हो है एप को नाम",
+        "client_msg_id": "e5fec80e-5f6f-4e43-b179-680b8db3c363",
+        "ts": "1527867698.000507"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "<!everyone> भोलिको दिन कसरी मनाउँदै हुनुहुन्छ नि तपाईं हरु?",
+        "client_msg_id": "a2a195d2-c9d9-44fa-b4c8-5ba3566f4c4a",
+        "ts": "1527867756.000785"
+    },
+    {
+        "type": "message",
+        "user": "UAYN9AXME",
+        "text": "सुतेर",
+        "client_msg_id": "314a355f-b328-410c-a6d5-c6d4d85cc1d9",
+        "ts": "1527867792.000162"
+    },
+    {
+        "type": "message",
+        "user": "UAYN9AXME",
+        "text": "लोकल गाइडको कार्यक्रम आयोजना गर्ने निर्णय भएको थियो के नहुने भएको हो र??",
+        "client_msg_id": "0e2c0c54-56da-4be4-b75d-f24fc8762054",
+        "ts": "1527867914.000131"
+    },
+    {
+        "type": "message",
+        "user": "UAX9N6QM9",
+        "text": "क्यार्नी हो र केही काम छैन",
+        "client_msg_id": "d836ac5b-2f68-4b43-bd53-0dba18387839",
+        "ts": "1527867929.000071"
+    },
+    {
+        "type": "message",
+        "user": "UAYN9AXME",
+        "text": "<@UATG2FQGL>",
+        "client_msg_id": "86a4e61a-4185-4e0e-91e4-872492246704",
+        "ts": "1527867929.000741"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "लोकल गाइड को कार्यक्रम जुन ९ तारिखमा हुने हो नि त",
+        "client_msg_id": "f18504b4-6bb0-4d72-9ec3-e954e8cf1458",
+        "ts": "1527867978.000703"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "हाहा",
+        "client_msg_id": "a5f2e077-7577-42a4-acb9-992377e99aca",
+        "ts": "1527867981.000649"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "दिनभर सुत्ने ?",
+        "client_msg_id": "df3bcfa1-5695-451c-bd5a-03ac9d1c4a9d",
+        "ts": "1527867982.000694"
+    },
+    {
+        "type": "message",
+        "user": "UAX9N6QM9",
+        "text": "मैले आज एउटा भैंसी देखेथें",
+        "client_msg_id": "551b4cf4-3201-4499-bcb1-c2a0c422448b",
+        "ts": "1527868002.000217"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@UAX9N6QM9> uploaded a file: <https:\/\/nepalichatdata.slack.com\/files\/UAX9N6QM9\/FB16KN7KR\/20180601_150033.jpg|20180601_150033.jpg>",
+        "file": {
+            "id": "FB16KN7KR",
+            "created": 1527868015,
+            "timestamp": 1527868015,
+            "name": "20180601_150033.jpg",
+            "title": "20180601_150033.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "UAX9N6QM9",
+            "editable": false,
+            "size": 5467833,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/TAT1265A5-FB16KN7KR\/20180601_150033.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/TAT1265A5-FB16KN7KR\/download\/20180601_150033.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB16KN7KR-e1f1fecc2a\/20180601_150033_64.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB16KN7KR-e1f1fecc2a\/20180601_150033_80.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB16KN7KR-e1f1fecc2a\/20180601_150033_360.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_360_w": 360,
+            "thumb_360_h": 203,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB16KN7KR-e1f1fecc2a\/20180601_150033_480.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_480_w": 480,
+            "thumb_480_h": 270,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB16KN7KR-e1f1fecc2a\/20180601_150033_160.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB16KN7KR-e1f1fecc2a\/20180601_150033_720.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_720_w": 720,
+            "thumb_720_h": 405,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB16KN7KR-e1f1fecc2a\/20180601_150033_800.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_800_w": 800,
+            "thumb_800_h": 450,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB16KN7KR-e1f1fecc2a\/20180601_150033_960.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_960_w": 960,
+            "thumb_960_h": 540,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB16KN7KR-e1f1fecc2a\/20180601_150033_1024.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 576,
+            "image_exif_rotation": 1,
+            "original_w": 4032,
+            "original_h": 2268,
+            "permalink": "https:\/\/nepalichatdata.slack.com\/files\/UAX9N6QM9\/FB16KN7KR\/20180601_150033.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/TAT1265A5-FB16KN7KR-caeee22617",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "UAX9N6QM9",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "nischal.prajapati24",
+        "bot_id": null,
+        "ts": "1527868022.000045"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "हाहा",
+        "client_msg_id": "7e0d51b1-2103-40fd-8ee2-3021addbded3",
+        "ts": "1527868041.000457"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "भैँसी सोल्टी पोैडिदै रहेछ",
+        "client_msg_id": "525056e4-5968-4dfa-b2c7-674fe65a66ee",
+        "ts": "1527868076.000109"
+    },
+    {
+        "type": "message",
+        "user": "UAYC7R8D6",
+        "text": "हेलो निश्चल दाइ, सन्चै हुनुहुन्छ ?",
+        "client_msg_id": "fcf3a73b-c164-427a-a0a3-313f2d9def37",
+        "ts": "1527868141.000612"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "<@UAX9N6QM9> दाई :blush:",
+        "client_msg_id": "f1cadbc5-3077-4f28-bead-e672a4792a93",
+        "ts": "1527868182.000057"
+    },
+    {
+        "type": "message",
+        "user": "UAX9N6QM9",
+        "text": "सन्चै :v::skin-tone-4:",
+        "client_msg_id": "a64ffd0e-4280-4d61-997e-16330b41902e",
+        "ts": "1527868218.000294"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@UAX9N6QM9> uploaded a file: <https:\/\/nepalichatdata.slack.com\/files\/UAX9N6QM9\/FB09CGJ6R\/img_ib8pnd.jpg|IMG_ib8pnd.jpg> and commented: कसैलाई यो याद छ ?",
+        "file": {
+            "id": "FB09CGJ6R",
+            "created": 1527868332,
+            "timestamp": 1527868332,
+            "name": "IMG_ib8pnd.jpg",
+            "title": "IMG_ib8pnd.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "UAX9N6QM9",
+            "editable": false,
+            "size": 1575007,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/TAT1265A5-FB09CGJ6R\/img_ib8pnd.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/TAT1265A5-FB09CGJ6R\/download\/img_ib8pnd.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_64.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_80.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_360.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_360_w": 225,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_480.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_480_w": 300,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_160.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_720.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_720_w": 450,
+            "thumb_720_h": 720,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_800.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_800_w": 800,
+            "thumb_800_h": 1279,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_960.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_960_w": 601,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_1024.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_1024_w": 641,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 2074,
+            "original_h": 3315,
+            "permalink": "https:\/\/nepalichatdata.slack.com\/files\/UAX9N6QM9\/FB09CGJ6R\/img_ib8pnd.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/TAT1265A5-FB09CGJ6R-eb86d9cac8",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 2,
+            "initial_comment": {
+                "id": "FcAZJPJLFK",
+                "created": 1527868332,
+                "timestamp": 1527868332,
+                "user": "UAX9N6QM9",
+                "is_intro": true,
+                "comment": "कसैलाई यो याद छ ?"
+            }
+        },
+        "user": "UAX9N6QM9",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "nischal.prajapati24",
+        "bot_id": null,
+        "ts": "1527868336.000501"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "म पनि हाम्रो किबोर्ड युज गर्छु",
+        "client_msg_id": "a71573c9-e68c-43ea-afc9-9278cff26f5b",
+        "ts": "1527868617.000653"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "म घर पुगिसके । आएदेखि सुतेको सुत्यै",
+        "client_msg_id": "307beada-dcf4-4c6f-af1b-2016f846fa7c",
+        "ts": "1527868704.000573"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "हैट त्यो VCR क्यासेड हैन निश्चल ?",
+        "ts": "1527868761.000177"
+    },
+    {
+        "type": "message",
+        "user": "UAX9N6QM9",
+        "text": "भी एच एस",
+        "client_msg_id": "4290fbf9-fb9d-453b-af52-915496199248",
+        "ts": "1527868821.000837"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "जे होस् महाभारत तेस्मै हेरेको हो सानो बेला मा :slightly_smiling_face:",
+        "ts": "1527868856.000158"
+    },
+    {
+        "type": "message",
+        "user": "UAX9N6QM9",
+        "text": "यसमा कहो ना प्यार है हेरेको याद छ :joy:",
+        "client_msg_id": "ee36cb03-2b48-4b47-9615-7e4c465ba98c",
+        "ts": "1527868888.000364"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "हाहा",
+        "ts": "1527868959.000215"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "<@UAUDW4QLE> भ्रमण कस्तो रह्यो त तिम्रो ?",
+        "ts": "1527869016.000475"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "आज मलाइ पनि बसमा कहो ना प्यार है देखायो ।",
+        "client_msg_id": "a7b5449b-1722-4a97-a12b-baf78f677235",
+        "ts": "1527869029.000207"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "सपरिवार गएको भ्रमण अति नै रमाइलो भयो",
+        "client_msg_id": "fa4cc607-1a97-4805-972f-b46ef50e481b",
+        "ts": "1527869142.000688"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "भ्रमणमा गायब भएर झन्डै एउटा ठूलो मौका फुस्केको । हैट।",
+        "client_msg_id": "accc53fb-9cd5-42e0-975a-1c4ba63c2f57",
+        "ts": "1527869351.000266"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "कस्तो मौका होलानी , सुनौ न हामी पनि",
+        "ts": "1527869425.000073"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@UATG2FQGL> commented on <@UAX9N6QM9>’s file <https:\/\/nepalichatdata.slack.com\/files\/UAX9N6QM9\/FB09CGJ6R\/img_ib8pnd.jpg|IMG_ib8pnd.jpg>: तिमि संग फ्लपी ड्रायीभ छ ?",
+        "file": {
+            "id": "FB09CGJ6R",
+            "created": 1527868332,
+            "timestamp": 1527868332,
+            "name": "IMG_ib8pnd.jpg",
+            "title": "IMG_ib8pnd.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "UAX9N6QM9",
+            "editable": false,
+            "size": 1575007,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/TAT1265A5-FB09CGJ6R\/img_ib8pnd.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/TAT1265A5-FB09CGJ6R\/download\/img_ib8pnd.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_64.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_80.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_360.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_360_w": 225,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_480.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_480_w": 300,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_160.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_720.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_720_w": 450,
+            "thumb_720_h": 720,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_800.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_800_w": 800,
+            "thumb_800_h": 1279,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_960.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_960_w": 601,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TAT1265A5-FB09CGJ6R-f9258c8391\/img_ib8pnd_1024.jpg?t=xoxe-367036209345-375523572327-374375816051-d23ee5f6b106462eaf3dd53082f9e5bc",
+            "thumb_1024_w": 641,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 2074,
+            "original_h": 3315,
+            "permalink": "https:\/\/nepalichatdata.slack.com\/files\/UAX9N6QM9\/FB09CGJ6R\/img_ib8pnd.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/TAT1265A5-FB09CGJ6R-eb86d9cac8",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 2,
+            "initial_comment": {
+                "id": "FcAZJPJLFK",
+                "created": 1527868332,
+                "timestamp": 1527868332,
+                "user": "UAX9N6QM9",
+                "is_intro": true,
+                "comment": "कसैलाई यो याद छ ?"
+            }
+        },
+        "comment": {
+            "id": "FcAZUK4Q7N",
+            "created": 1527869486,
+            "timestamp": 1527869486,
+            "user": "UATG2FQGL",
+            "is_intro": false,
+            "comment": "तिमि संग फ्लपी ड्रायीभ छ ?"
+        },
+        "is_intro": false,
+        "ts": "1527869486.000467"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "एम आइ टि ग्लोबल स्टारटपबाट आएको मेल रिप्लाइ नगरेर",
+        "client_msg_id": "229d0581-a98d-4628-a221-e62e0ca62aaf",
+        "ts": "1527869571.000101"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "ए है साची",
+        "ts": "1527869610.000528"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "धेरै जना छनौट मा परेका रहेछन",
+        "ts": "1527869626.000539"
+    },
+    {
+        "type": "message",
+        "user": "UAX9N6QM9",
+        "text": "घरमा फ्लपि डिस्कहरू त थिए क्यार । ड्राइभ त अहिलेसम्म चलाएको नि छैन । <@UATG2FQGL>",
+        "client_msg_id": "090b56f1-f859-435d-8c6b-32c50610dcd1",
+        "ts": "1527869644.000212"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "हाहा",
+        "ts": "1527869660.000125"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "डिस्क हो सोध्न खोजेको त",
+        "ts": "1527869676.000297"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "ड्रायीभ त् म संग नि छैन नि",
+        "ts": "1527869696.000067"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "को को छनोटका परेको थाह छ दाइ",
+        "client_msg_id": "009eb18f-7ac2-441e-a495-9bf20fde3ad6",
+        "ts": "1527869711.000461"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "?",
+        "client_msg_id": "1b078ea3-cbbe-4e85-ad6e-14471bd40c80",
+        "ts": "1527869712.000324"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "सबै त थाहा छैन प्रतीत मनिस दिपेश प्रतिभा इनिहरु  छनौट मा परेको रहेछन",
+        "ts": "1527869853.000390"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "आशुतोष अब वोर्किङ्ग मोड अन भएको होत ?",
+        "ts": "1527869888.000117"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "ए ए",
+        "client_msg_id": "9c7045fb-2d89-4945-b883-bb546af0268d",
+        "ts": "1527870011.000600"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "छैन दाइ यो तराइको तातो अनि हिमालको चिसोले बिरामि बनायो",
+        "client_msg_id": "6481c630-4823-491d-b5c5-694d399c7360",
+        "ts": "1527870112.000306"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "अब  भोलिबाट वोर्किङ्ग मोड अन । जय भोलि",
+        "client_msg_id": "aeeb71be-9d33-4c98-a003-694abef01ca2",
+        "ts": "1527870175.000388"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "हाहा",
+        "ts": "1527870352.000389"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "जय भोलि",
+        "ts": "1527870360.000522"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "तर",
+        "ts": "1527870368.000304"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "आज को डेटा निकालेर गिटमा कमिट गरेर मात्र बिदा लिउहै",
+        "ts": "1527870417.000707"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "<@UAUDW4QLE>",
+        "ts": "1527870429.000349"
+    },
+    {
+        "type": "message",
+        "user": "UAXHE3CCA",
+        "text": "गित मा कमित गर्न हामीले मिल्छ कि नै",
+        "ts": "1527871957.000375"
+    },
+    {
+        "type": "message",
+        "user": "UAZLLG1ND",
+        "text": "नमस्ते  सबैलाई |",
+        "ts": "1527873803.000430"
+    },
+    {
+        "type": "message",
+        "user": "UAT2VLA0G",
+        "text": "नमस्ते",
+        "ts": "1527875102.000374"
+    },
+    {
+        "type": "message",
+        "user": "UAZLLG1ND",
+        "text": "म जोन तिमल्सिना हजुरहरुसित भेटेर खुसि लाग्यो  |",
+        "ts": "1527877105.000225"
+    }
+]
