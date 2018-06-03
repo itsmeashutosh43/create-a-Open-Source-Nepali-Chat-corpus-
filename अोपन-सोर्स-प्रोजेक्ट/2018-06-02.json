@@ -1,0 +1,515 @@
+[
+    {
+        "user": "UAUDW4QLE",
+        "text": "<@UAUDW4QLE> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1527929171.000041"
+    },
+    {
+        "user": "UAUDW4QLE",
+        "purpose": "Discuss on an opensource project on Health and contributing to create a database for creation of Nepali Chat Data",
+        "text": "<@UAUDW4QLE> set the channel purpose: Discuss on an opensource project on Health and contributing to create a database for creation of Nepali Chat Data",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1527929171.000085"
+    },
+    {
+        "user": "UAUPMLD4G",
+        "inviter": "UAUDW4QLE",
+        "text": "<@UAUPMLD4G> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1527929171.000100"
+    },
+    {
+        "user": "UAV01SYNT",
+        "inviter": "UAUDW4QLE",
+        "text": "<@UAV01SYNT> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1527929171.000106"
+    },
+    {
+        "user": "UATG2FQGL",
+        "inviter": "UAUDW4QLE",
+        "text": "<@UATG2FQGL> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1527929172.000035"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "नमस्ते है",
+        "client_msg_id": "1cf9d217-6c5d-4156-aa57-1ba684da9f60",
+        "ts": "1527929199.000065"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "नमस्ते",
+        "ts": "1527929310.000078"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "राजश्री लाई नि स्ल्याक मा निम्तो देउ है",
+        "ts": "1527929338.000027"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "अनि बोधिता लाई पनि",
+        "ts": "1527929377.000012"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "गोपनियता आफै मिलेको जस्तो छ",
+        "client_msg_id": "61c9122d-812a-4aff-a7d2-c4729515e93b",
+        "ts": "1527929447.000025"
+    },
+    {
+        "user": "UAUDW4QLE",
+        "topic": "Discuss Title",
+        "text": "<@UAUDW4QLE> set the channel topic: Discuss Title",
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1527929671.000037"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "नेपाली मा कुरा गर्ने कि अंग्रेजी मा ?",
+        "ts": "1527930314.000040"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "नेपालिमा गर्ने कि?",
+        "client_msg_id": "d025a12d-e66c-4aa1-89b4-9d6b317fa04a",
+        "ts": "1527930395.000079"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "ल हुन्छ मलाई त् कुनै आप्पति छैन",
+        "ts": "1527930471.000048"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "अरु साथीहरुले के भन्छ",
+        "ts": "1527930483.000006"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "दाइले त लाइटको गतिमा टाइप गर्नुहुन्छ",
+        "client_msg_id": "c6045289-a14a-4b5a-8ff9-99ad3bd7056f",
+        "ts": "1527930536.000036"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "हाहा",
+        "ts": "1527930556.000081"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "२०१५ देखि नेपाली मा लेख्नु थालेको",
+        "ts": "1527930575.000005"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "अलिकति गति त् लियिनै हलिंछा नि",
+        "ts": "1527930588.000043"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हाहा",
+        "client_msg_id": "31614b6c-0812-4693-b836-9189ef0a1a83",
+        "ts": "1527930686.000012"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/nepalichatdata.slack.com\/services\/BB0CKKEJX|GitBook>",
+        "bot_id": "BB0CKKEJX",
+        "bot_link": "<https:\/\/nepalichatdata.slack.com\/services\/BB0CKKEJX|GitBook>",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "UATG2FQGL",
+        "ts": "1527930687.000078"
+    },
+    {
+        "text": "Yay! Unlimited knowledge is now at your finger tips!\nUse the `\/gitbook [search query]` command to search through <https:\/\/kucc.gitbook.io\/medicaldatainsight\/|Medicaldatainsight>.",
+        "bot_id": "BB0CKKEJX",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1527930703.000032"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "म पनि दाइको गतिमा पुग्छु एकदिन",
+        "client_msg_id": "104ef3e8-96db-44b6-8e96-19b51924fb90",
+        "ts": "1527930729.000018"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": ":slightly_smiling_face: मेरो भन्दा अघि बढ्नु तिमि शुभकामना",
+        "ts": "1527930762.000032"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हाहा",
+        "client_msg_id": "d0240ed5-2852-4103-b671-452c07ba26c8",
+        "ts": "1527930775.000105"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "\/gitbook [मे]",
+        "ts": "1527930780.000030"
+    },
+    {
+        "text": "Ups, there are no results for \"*[मे]*\"",
+        "bot_id": "BB1CB9M5L",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1527930780.000032"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "\/gitbook newsletter",
+        "ts": "1527930796.000038"
+    },
+    {
+        "text": "There are 3 results for \"*newsletter*\":",
+        "bot_id": "BB1CB9M5L",
+        "attachments": [
+            {
+                "text": "_This newsletter will also highlight issues that needs to be resolved in upcoming month i.e. June 2018. Project Title\nEstimated Deadline: Jun…_",
+                "title": "June Sprint Goals",
+                "id": 1,
+                "title_link": "https:\/\/kucc.gitbook.io\/medicaldatainsight\/newsletters\/may-sprint",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "fallback": "June Sprint Goals"
+            },
+            {
+                "text": "_This newsletter will list datetime and details of events that has happened in the month of May with important highlights._",
+                "title": "March Updates",
+                "id": 2,
+                "title_link": "https:\/\/kucc.gitbook.io\/medicaldatainsight\/newsletters\/may-sprint",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "fallback": "March Updates"
+            },
+            {
+                "text": "_No description_",
+                "title": "Newsletters",
+                "id": 3,
+                "title_link": "https:\/\/kucc.gitbook.io\/medicaldatainsight\/newsletters",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "fallback": "Newsletters"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1527930796.000040"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "\/gitbook june sprint goals",
+        "ts": "1527930813.000064"
+    },
+    {
+        "text": "There is 1 result for \"*june sprint goals*\":",
+        "bot_id": "BB1CB9M5L",
+        "attachments": [
+            {
+                "text": "_This newsletter will also highlight issues that needs to be resolved in upcoming month i.e. June 2018. Project Title\nEstimated Deadline: Jun…_",
+                "title": "June Sprint Goals",
+                "id": 1,
+                "title_link": "https:\/\/kucc.gitbook.io\/medicaldatainsight\/newsletters\/may-sprint",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "fallback": "June Sprint Goals"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1527930813.000066"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "<@UAUDW4QLE> \/gitbook प्रयोग गरेर त्यहाँ भयेको कागजात खोज्ने प्रयास गारत",
+        "ts": "1527930876.000071"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हस दाइ",
+        "client_msg_id": "03ffde20-adeb-44c8-b327-504dbd5a3d63",
+        "ts": "1527930893.000099"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "नतिजा देखैछा कि देखाउदैन तिम्लाई हेरौ",
+        "ts": "1527930898.000056"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हाहा",
+        "client_msg_id": "e90ba150-7560-4569-b02c-d1e3e32b8273",
+        "ts": "1527930915.000094"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "दाइ कस्तो कागजात खोज्ने भनेको?",
+        "client_msg_id": "c068cf62-7935-4d8e-a479-c59d153ea4b7",
+        "ts": "1527931153.000006"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "गिटबूक मा लेखेको कुराहरु स्ल्यक बाट खोज्न मिल्छ",
+        "ts": "1527931302.000058"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "जे सब्द खोज्दा नि हुन्छा",
+        "ts": "1527931315.000091"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "ए ए म त के भनेको भनेर अलमल्ल परे",
+        "client_msg_id": "7cc7cc7b-385a-44c6-91b5-8e4f5f23d94b",
+        "ts": "1527931394.000080"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "हाहा",
+        "ts": "1527931467.000008"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "\/gitbook [Ashutosh]",
+        "ts": "1527931516.000085"
+    },
+    {
+        "text": "There is 1 result for \"*[Ashutosh]*\":",
+        "bot_id": "BB1CB9M5L",
+        "attachments": [
+            {
+                "text": "_Idea Incubation Session Organized Date: May 20, 2018\nEvent: GOOGLE I\/O Extended at KU\nParticipants on Idea Incubation Session: Ejan Shakya…_",
+                "title": "Goals Achieved\n",
+                "id": 1,
+                "title_link": "https:\/\/kucc.gitbook.io\/medicaldatainsight\/newsletters\/may-sprint",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "fallback": "Goals Achieved\n"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1527931516.000087"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "खतरा है",
+        "ts": "1527931533.000004"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "अब हामी हाम्रो कुनै पनि बिसय हरुमा सल्ला गर्ने बेला के हो भनेर येसरी नै देखाउने छौ",
+        "ts": "1527931568.000054"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "दाइसँग काम गरेर धेरै सिकिने देखिसके मैले",
+        "client_msg_id": "d48c0d6c-e3ac-4999-a774-e51b479581fc",
+        "ts": "1527931685.000027"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "कोड गर्न चाही तिमि मलाई सिकाउ बाकी सब म तिम्लाई सिकाउछु  :sunglasses:",
+        "ts": "1527931965.000074"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "\/gitbook project title proposed",
+        "ts": "1527932040.000085"
+    },
+    {
+        "text": "There are 2 results for \"*project title proposed*\":",
+        "bot_id": "BB1CB9M5L",
+        "attachments": [
+            {
+                "text": "_Following are the project titles yet proposed by the Contributors: S.No. Proposed Project Title Proposed By 1) Medical Data Insight Sanjog S…_",
+                "title": "Project Title Proposed",
+                "id": 1,
+                "title_link": "https:\/\/kucc.gitbook.io\/medicaldatainsight\/newsletters\/may-sprint\/proposal-and-discussions",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "fallback": "Project Title Proposed"
+            },
+            {
+                "text": "_On May 20, 2018 during an event titled \"  GOOGLE I\/O 2018 EXTENDED AT KATHMANDU UNIVERSITY \", FOSS volunteer Mr. Sanjog Sigdel facilitated a…_",
+                "title": "Overview \n",
+                "id": 2,
+                "title_link": "https:\/\/kucc.gitbook.io\/medicaldatainsight\/newsletters\/may-sprint",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "fallback": "Overview \n"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1527932040.000088"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "मैले गरेको प्रस्ताव मा केहि सुझाब छ भने भन है",
+        "ts": "1527932157.000108"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "एउटा नामे को छिनफोनो लगाऊ अनि डोमेन दर्ता गर्न लाग्छु मा",
+        "ts": "1527932196.000058"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "मैले दिएको नाम आएन त",
+        "client_msg_id": "b9c39767-d3db-4fbb-a1d9-e896f61bdd1f",
+        "ts": "1527932798.000078"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "तिमीले पनि त सम्पादन गर्न मिल्छ नि हैन र ?",
+        "ts": "1527932844.000068"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "गिटहबबाट सिङ्क गर्न मिल्दैन ?",
+        "client_msg_id": "77b9fec7-4860-4a85-b1c6-1ccab09ea4a3",
+        "ts": "1527932981.000015"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "अब एकचोटी प्रयास गर त",
+        "ts": "1527933007.000053"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "अब देखिन्छ",
+        "ts": "1527933015.000047"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "सिंक चाही हुन्छ के कसरी हने हेर्न बाकी छ",
+        "ts": "1527933033.000037"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "ए ए",
+        "client_msg_id": "fd28527b-8c1c-40ed-9a37-179ad2b0ef52",
+        "ts": "1527935112.000044"
+    },
+    {
+        "type": "message",
+        "user": "UAV01SYNT",
+        "text": "नमस्ते सबै जनालाई",
+        "ts": "1527935906.000009"
+    },
+    {
+        "type": "message",
+        "user": "UAV01SYNT",
+        "text": "\/gitbook Anurag",
+        "ts": "1527936079.000026"
+    },
+    {
+        "text": "There is 1 result for \"*Anurag*\":",
+        "bot_id": "BB1CB9M5L",
+        "attachments": [
+            {
+                "text": "_Idea Incubation Session Organized Date: May 20, 2018\nEvent: GOOGLE I\/O Extended at KU\nParticipants on Idea Incubation Session: Ejan Shakya…_",
+                "title": "Goals Achieved\n",
+                "id": 1,
+                "title_link": "https:\/\/kucc.gitbook.io\/medicaldatainsight\/newsletters\/may-sprint",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "fallback": "Goals Achieved\n"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1527936079.000028"
+    },
+    {
+        "type": "message",
+        "user": "UAV01SYNT",
+        "text": "\/gitbook risingjunkiri",
+        "ts": "1527936104.000021"
+    },
+    {
+        "text": "Ups, there are no results for \"*risingjunkiri*\"",
+        "bot_id": "BB1CB9M5L",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1527936104.000022"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "कसैले gitbook मा सम्पादन गर्न कोसिस गरेको हो?",
+        "client_msg_id": "ca493d0e-e654-4814-8def-52b95c3ed5f1",
+        "ts": "1527938097.000072"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "छैन । म एकछिनमा गर्छु।",
+        "client_msg_id": "d8ad7131-6a5d-4311-904a-d5b76e34b850",
+        "ts": "1527938383.000029"
+    }
+]
