@@ -1,0 +1,24 @@
+[
+    {
+        "user": "UATE87C0K",
+        "inviter": "UAUDW4QLE",
+        "text": "<@UATE87C0K> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1528117676.000377"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "बिसाल स्वागत छ",
+        "client_msg_id": "53ad02c3-d409-4733-a2dc-d0fcaf9ef494",
+        "ts": "1528118383.000150"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "गिटबुक मा गलेर मासिक समाचार पत्र हेरी\n सल्लाह सुझाव दिन नबिर्सनु हेस।",
+        "client_msg_id": "4e83e135-dc92-4a76-b9b7-9cce641bf747",
+        "ts": "1528118538.000396"
+    }
+]
