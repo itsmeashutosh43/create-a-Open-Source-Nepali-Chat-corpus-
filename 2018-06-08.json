@@ -1,0 +1,471 @@
+[
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "सरो गर्मि भयो हनुमान जी",
+        "ts": "1528462498.000124"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हो भन्या ।",
+        "client_msg_id": "2649cca1-2d19-41ef-aa40-034985e615c8",
+        "ts": "1528462901.000534"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "यो हप्ता कसरी बोत्यो त ?",
+        "client_msg_id": "76b8f168-affa-4d8d-b0cc-d9692830712b",
+        "ts": "1528462937.000121"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "यो हप्ता कार्यालयमा साझ काम  गरेरै  बित्यो",
+        "ts": "1528462971.000594"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": ":disappointed:",
+        "ts": "1528462973.000373"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "रमाइलो छ है जिन्दगी",
+        "client_msg_id": "b183c7d5-406d-41e9-8c57-a80df7ff7b16",
+        "ts": "1528463004.000041"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "पिडा छ हनुमान जी",
+        "ts": "1528463031.000331"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "दाइ भरसेन्डमा हो है?",
+        "client_msg_id": "cd60f8ae-b15e-4920-a0d7-b90c846d22f7",
+        "ts": "1528463040.000066"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "तिम्रो यो हप्ता कसरी बित्यो त",
+        "ts": "1528463045.000049"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "अँ होनी ऐले भरसेंडको छैटौ तल्लामा हो",
+        "ts": "1528463097.000170"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "मेरो नि इन्टरनल ले खै कस्तो भयो भन्नु ।",
+        "client_msg_id": "a8f37baf-174a-4d67-8562-8b2c1e2650c3",
+        "ts": "1528463109.000566"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "गोरा आदमीहरुको  गफ सुन्दै हो",
+        "ts": "1528463121.000047"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "कस्तो भयो त",
+        "ts": "1528463151.000170"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "आन्तरिक परिक्षा ?",
+        "ts": "1528463159.000025"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "स्टुडेन्ट लाइफ अझै परिक्षाको तनाब छ",
+        "client_msg_id": "9bbeee5a-751f-44b1-a3a7-3b5a1076ce3c",
+        "ts": "1528463201.000273"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "ठिकै भयो",
+        "client_msg_id": "9c75f86e-5272-4a33-bdc4-74709158b8f7",
+        "ts": "1528463231.000018"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "भन्नु मात्र बिद्यार्थी जीवनमा तनाब हो बास्तविक जिन्दगि अझै डरलाग्दो हुन्छ :slightly_smiling_face:",
+        "ts": "1528463251.000483"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "आइतबार अन्तिम एउटा बाकी छ",
+        "client_msg_id": "9488dc7a-9211-4327-9ba6-28ea2da3ff72",
+        "ts": "1528463276.000393"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "सबसे स्वर्णिम क्षण भनेकै बिद्यार्थी जीवन हो",
+        "ts": "1528463289.000031"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "बिद्यार्थी जीवन रमाइलो त हो तर परीक्षा नरमाइलो",
+        "client_msg_id": "ec631870-5b97-463f-bfe3-518134d89100",
+        "ts": "1528463341.000443",
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "UATG2FQGL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "आईतबार सबैजना को परिक्ष्य हो ?",
+        "ts": "1528463356.000135"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हेरुम वास्तविक जीवन कस्तो हुन्छ",
+        "client_msg_id": "77317a55-89aa-464e-ba4d-1cbf53bd73ef",
+        "ts": "1528463406.000353"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "तेस्रो वर्षको हो अरुको थाह भएन",
+        "client_msg_id": "5c7aa523-5705-490a-bf77-19d4f1a170c2",
+        "ts": "1528463448.000071"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "तयार भएर आउनु साथी निकैनै कस्टकर हुन्छ बास्तविक जीवन",
+        "ts": "1528463453.000067"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "ए ए",
+        "ts": "1528463465.000463"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हस दाइ ।",
+        "client_msg_id": "239dd160-4a8a-4a16-b56b-65082b5190bf",
+        "ts": "1528463478.000397"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "तपाइले काम गर्न थालेको कति भयो ?",
+        "client_msg_id": "ef8e6001-8758-4537-9511-112e4b1339cf",
+        "ts": "1528463517.000554"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "अस्ति दुइ वर्ष भयो :slightly_smiling_face:",
+        "ts": "1528463531.000414"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "ओहो !",
+        "client_msg_id": "b435de30-21ae-48d9-9c0e-a4559ad36d07",
+        "ts": "1528463547.000512"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "यो प्रोजेक्ट को लागि के के काम अगाडी बढाएको छौ त ?\nहामीलाई नि सिकाउने छौ भन्ने आसा राखेको छु",
+        "ts": "1528463580.000804"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "टाइम पाएको बेला अलि अलि अध्यन गरि रहेको छु ।",
+        "client_msg_id": "8eb0c319-488b-4726-a7a1-ae2e5cae723f",
+        "ts": "1528463672.000192"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "तिमीले अध्यन गरेका कुराहरु हामीलाई नि बाँढ न, मलाई पनि निकै रुचि छ",
+        "ts": "1528463788.000008"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "धेरै टेस्टिङ हो डिप लर्निङ। सुरुमा अलि डेटा आएपछि काम गर्न मजा आउछ ।",
+        "client_msg_id": "4a3132c8-2b10-43ea-96f5-32c434ac5c99",
+        "ts": "1528463828.000672"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हुन्छ अब बाँढ्छु पढेको कुरा",
+        "client_msg_id": "2dd44be2-c534-4ebf-9835-ebab8ecf93be",
+        "ts": "1528463880.000653"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "पहिला डिप लर्निङ्ग मा कोडिंग गर्न पनि त आउनु पर्योनि।  हेलो संसार बाहेक केहीमा कैलैए कोडिंग गरेको छैन",
+        "ts": "1528463951.000169"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "तर एउटा कुरा",
+        "ts": "1528463994.000119"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "गणित नै हो धेरै । कोडिङ धेरै हुदैन ।",
+        "client_msg_id": "c9841c3a-2a72-4c29-93bf-07c4d4eaee55",
+        "ts": "1528464040.000332"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हजुर भन्नु",
+        "client_msg_id": "85ccf30d-15f1-452c-807a-d65bb8e94efa",
+        "ts": "1528464068.000500"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "हामीले खासै कुनै बिसयमा पनि गहिरो अनि विस्तार कुराकानी गरेको छैनौ।  तिम्लाई लग्छ कि हामीले यो कुराकानी बाट केहि बहुमुल्य डेटा सेट लिन सफल हुनसक्छौ ?",
+        "ts": "1528464129.000370"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "मैले केयु मा एउटा  गहिरो विसयमा अध्यन र कुराकानी  गर्ने सेसन आयोजन गर्ने सोचिरा छु",
+        "client_msg_id": "8ac60a62-b111-4c14-96fa-303e7ab5baaf",
+        "ts": "1528464306.000651"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "भर्खर १००० वाक्य पुरा भएको छ भने प्रायजसो सुरुवाती कुराकानी मात्र छन्",
+        "ts": "1528464347.000340"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "यै हप्ता भित्रै सकेसम्म ।",
+        "client_msg_id": "64888e68-6523-46d7-be36-319060a07086",
+        "ts": "1528464361.000100"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हो दाइ",
+        "client_msg_id": "5b91a0a1-4353-4219-bb17-63ab9ed14485",
+        "ts": "1528464378.000514"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "ल तेसो हो भने ठिक छ",
+        "ts": "1528464439.000399"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "धेरै जना नि चाहिएन",
+        "ts": "1528464445.000549"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "मेरो कुरा मान्ने ६-७ जना जम्मा पारेर , मान्छे बटुलेर सुरु गर्छु ।",
+        "client_msg_id": "66318876-0f0b-4e14-b1e9-cbbf289206bf",
+        "ts": "1528464544.000291"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "४-५  जाने ले २ घण्टा मज्जाले कुनै बिसय मा कुराकानी गर्यो भने धेरै सहयोग हुन्छ",
+        "ts": "1528464585.000551"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "तिमी होस्टेल बस्छौ हैन ?",
+        "ts": "1528464613.000442"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "अ अ",
+        "client_msg_id": "2ad337bc-c3e4-46f5-a574-c6691e25a6ba",
+        "ts": "1528464614.000629"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "म कोठा लिएर बस्छु ।",
+        "client_msg_id": "61c13eb5-cd7d-4adc-9aa1-f46b8da1505d",
+        "ts": "1528464634.000304"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "नापि विभाग तिर",
+        "client_msg_id": "7241aece-7c32-4e35-b042-0ba826f422ea",
+        "ts": "1528464662.000593"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "साथीहरु लाई  व्यक्तिगत तवरमा अनुरोध गरन सधै तिमी र म नै हुन्छौ बाकी ६७ जना जनताहरुको धेरै योगदान देखिदैन",
+        "ts": "1528464720.000626"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "नापी बिभाग तिर कता हो नी?",
+        "ts": "1528464764.000427"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हामिले पनि ६७ जनालाइ इन्भल्ब गराउन नसकेको भन्नु पर्छ ।मेरो आफ्नै रूम पार्टनरले एक शब्द बोलेको छैन ।",
+        "client_msg_id": "83fbf9f1-c32d-4532-aa83-6e46c9f05f8d",
+        "ts": "1528464922.000004"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "उम्म त्यो",
+        "ts": "1528467082.000760"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "त्यो पनि ठिक हो",
+        "ts": "1528467094.000122"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "जबसम्म केहि जटिल सिर्सकमा राम्रो कुराकानी हुदैन अरु आबद्ध हुनानी रुचाउन्नन",
+        "ts": "1528467157.000735"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "अ अ",
+        "client_msg_id": "a01a0fa9-a3fe-4565-8d8b-1cf9029d35fc",
+        "ts": "1528467271.000338"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "खान खायेउ त आशुतोष ?",
+        "ts": "1528467291.000523"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "खाए दाइ",
+        "client_msg_id": "a8d77307-03c5-4989-a1a3-d25632ee5f1c",
+        "ts": "1528467324.000566"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "तपाइले?",
+        "client_msg_id": "1d010182-0f57-4fc0-9f72-428c68fd2838",
+        "ts": "1528467332.000419"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "मैले पनि खाएँ",
+        "ts": "1528467344.000738"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "भोलि के गर्दै छौ त?",
+        "ts": "1528467358.000387"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "ए ए ।",
+        "client_msg_id": "ee88ce99-ed00-495b-8bde-8d2359bd893e",
+        "ts": "1528467385.000538"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हलि पहिला देखि एउटा एप बनाउने सोचेको थिए । सायद त्यो सुरु गर्नेछु ।",
+        "client_msg_id": "517bbc81-57f3-4bdf-b9df-4408d4db737e",
+        "ts": "1528467471.000430"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "अलि *",
+        "client_msg_id": "926b0c93-632a-41a5-99ca-95d1e295be27",
+        "ts": "1528467496.000313"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "राम्रो हो",
+        "ts": "1528467956.000024"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "सकेको योगदान मा पनि",
+        "ts": "1528467969.000472"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "गर्ने",
+        "ts": "1528467972.000248"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "छु",
+        "ts": "1528467974.000642"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हस्",
+        "client_msg_id": "930213c5-56ce-4ef6-b776-3aa058740310",
+        "ts": "1528469289.000307"
+    }
+]
