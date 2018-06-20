@@ -360,7 +360,16 @@
         "type": "message",
         "user": "UATG2FQGL",
         "text": "कोड गर्न चाही तिमि मलाई सिकाउ बाकी सब म तिम्लाई सिकाउछु  :sunglasses:",
-        "ts": "1527931965.000074"
+        "ts": "1527931965.000074",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UATE87C0K"
+                ],
+                "count": 1
+            }
+        ]
     },
     {
         "type": "message",

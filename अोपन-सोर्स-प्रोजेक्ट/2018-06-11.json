@@ -28,5 +28,70 @@
         "text": "हस",
         "client_msg_id": "35b5f3e1-f5e0-4053-8540-89d0fecfa09d",
         "ts": "1528726108.000325"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "आशुतोष गिटहबमा पहिले KUCC संस्था स्थापित छ",
+        "client_msg_id": "df29b44a-2e09-4c14-91cd-b2a96628b831",
+        "ts": "1528733123.000210"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "तिम्ले नया दर्ता गरेछौ",
+        "client_msg_id": "b435d9c3-c1e6-4524-b73e-56edcd5f3633",
+        "ts": "1528733133.000917"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "कृपया त्यस संस्था लाई हटायेर पहिलै रहेको <https:\/\/github.com\/kucc1997>\nसंस्था मा मैले पठाएको नीमन्त्रण स्वीकार गरिदेउ है",
+        "client_msg_id": "e247c364-30ae-4c69-a936-36d96dd22432",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Kathmandu University Computer Club",
+                "title_link": "https:\/\/github.com\/kucc1997",
+                "text": "KUCC is an independent club totally operated and organized by the students of DOCSE, Kathmandu University.",
+                "fallback": "GitHub: Kathmandu University Computer Club",
+                "from_url": "https:\/\/github.com\/kucc1997",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/28986470?s=280&v=4",
+                "thumb_width": 169,
+                "thumb_height": 169,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/kucc1997"
+            }
+        ],
+        "ts": "1528733206.000515"
+    },
+    {
+        "type": "message",
+        "user": "UAUDW4QLE",
+        "text": "हाहा हस दाइ ।",
+        "client_msg_id": "55aaca2f-955e-4792-9d18-a0f1e2b22ddf",
+        "ts": "1528734984.000018"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": ":slightly_smiling_face:",
+        "client_msg_id": "60082b49-2db8-44b3-bc9a-b09707248e0b",
+        "ts": "1528735100.000482"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "अनि खै कहिले हो तिम्ले बिश्वबिध्यालयमा कार्यक्रम आयोजना गर्ने भनेको ?\nयेसरी चुप लगेर बासु भने कसैले पनि नेपाली च्याट डेटा प्रोजेक्ट मा योगदान गर्दैनन्",
+        "client_msg_id": "149a65c0-7fbb-4b66-999e-602365def2fe",
+        "ts": "1528735180.000146"
+    },
+    {
+        "type": "message",
+        "user": "UATG2FQGL",
+        "text": "बरु फेसबुकको KU र KUCC समुहमा दैनिक जसो हामी एस्तो गर्दैछौ कोइ १० मिनेट जतिको लागी सहयोग गर्न चाहनु हुन्छा भने कृपया यो लिंक क्लिक गर्नु होला भनेर पोस्ट गर्ने गर न",
+        "client_msg_id": "685c2932-c3e4-4352-ba4a-8d5a8e81ab05",
+        "ts": "1528735288.000573"
     }
 ]
